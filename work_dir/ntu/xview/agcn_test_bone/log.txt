@@ -1,0 +1,16 @@
+[ Wed May 18 16:32:25 2022 ] Load weights from ./runs/ntu_cv_agcn_bone-49-29400.pt.
+[ Thu Jun 30 18:49:45 2022 ] Load weights from ./runs/ntu_cv_agcn_bone-49-30100.pt.
+[ Thu Jun 30 18:50:11 2022 ] Load weights from ./runs/ntu_cv_agcn_bone-49-30100.pt.
+[ Thu Jun 30 18:54:17 2022 ] Load weights from ./runs/ntu_cv_agcn_bone-49-30100.pt.
+[ Thu Jun 30 18:55:39 2022 ] Load weights from ./runs/ntu_cv_agcn_bone-47-28896.pt.
+[ Thu Jun 30 20:17:56 2022 ] Load weights from ./runs/ntu_cv_agcn_bone-47-28896.pt.
+[ Thu Jun 30 20:17:56 2022 ] using warm up, epoch: 0
+[ Thu Jun 30 20:31:05 2022 ] Load weights from ./runs/ntu_cv_agcn_bone-47-28896.pt.
+[ Thu Jun 30 20:31:05 2022 ] using warm up, epoch: 0
+[ Thu Jun 30 20:32:35 2022 ] Load weights from ./runs/ntu_cv_agcn_bone-47-27552.pt.
+[ Thu Jun 30 20:33:02 2022 ] Load weights from ./runs/ntu_cv_agcn_bone-47-27552.pt.
+[ Thu Jun 30 20:33:31 2022 ] Load weights from ./runs/ntu_cv_agcn_bone-45-26404.pt.
+[ Thu Jun 30 20:34:08 2022 ] Load weights from ./runs/ntu_cv_agcn_bone-45-27692.pt.
+[ Thu Jun 30 20:34:08 2022 ] using warm up, epoch: 0
+[ Thu Jun 30 20:36:34 2022 ] Load weights from ./runs/ntu_cv_agcn_bone-49-30100.pt.
+[ Thu Jun 30 20:36:34 2022 ] using warm up, epoch: 0
